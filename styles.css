@@ -54,6 +54,12 @@ p a {
 	flex-wrap: wrap;
 }
 
+.download-buttons a {
+	height: 90px;
+	width: 250px;
+	position: absolute;
+}
+
 .download-android {
 	margin: 0 auto;
 	padding: 10px;
