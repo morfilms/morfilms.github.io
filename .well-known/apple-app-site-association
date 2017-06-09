@@ -3,11 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "",
-        "paths": [ ]
-      },
-      {
-        "appID": "",
+        "appID": "1207671266.eu.morfilms.watchlist",
         "paths": [ "*" ]
       }
     ]
