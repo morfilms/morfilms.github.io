@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "eu.morfilms.watchlist",
-    "sha256_cert_fingerprints":
-    ["D1:E0:A2:B0:F3:FD:CD:7E:88:D4:E4:1D:B9:41:9F:82:7A:09:4F:8A:09:38:F8:18:53:A7:DB:E5:8F:74:D3:94"]
-  }
-}]
