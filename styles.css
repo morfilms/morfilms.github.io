@@ -39,8 +39,7 @@ p a {
 	padding-top: 55%;
 	margin: 20px;
 	
-	background-image: url(https://github.com/morfilms/morfilms.github.io/raw/master/img/screenshots.jpg);
-	/*background-image: url('img/screenshots.jpg');*/
+	background-image: url('img/screenshots.jpg');
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -62,8 +61,7 @@ p a {
 	width: 250px;
 	left: 2.5%;
 	
-	background-image: url(https://github.com/morfilms/morfilms.github.io/raw/master/img/badge_googleplay.png);
-	/*background-image: url(img/badge_googleplay.png);*/
+	background-image: url(img/badge_googleplay.png);
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -76,8 +74,7 @@ p a {
 	width: 250px;
 	right: 2.5%;
 	
-	background-image: url(https://github.com/morfilms/morfilms.github.io/raw/master/img/badge_appstore.png);
-	/*background-image: url(img/badge_appstore.png);*/
+	background-image: url(img/badge_appstore.png);
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: center;
